@@ -24,6 +24,7 @@
 // *** Sequence of making pins HIGH and LOW is important
 // *** If D+ falls below 0.325V during transition because of wrong GPIO Switching Sequence
 // *** QC 2.0 will exit High Voltage Mode and VBUS will go back to 5 Volts
+// *** EEPROM is also used in the sketch so the MCU will remember the last voltage level and automatically switch to it after booting up.
 
 //  ==============================================  //
 
