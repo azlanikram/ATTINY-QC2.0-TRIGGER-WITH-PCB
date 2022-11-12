@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=dw3MehLAyWU&t=563s&ab_channel=AndreasSpiess
 
 Possible Applications:
 
-Driving 12V LED Stripes\n
+Driving 12V LED Stripes
 Powering RF transmitters/receivers for longer range
 Driving 12V Relays, Motors etc
 Get any voltage between 1.25 to 10 volts using a LM317 or LM2596
