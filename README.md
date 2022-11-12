@@ -20,3 +20,8 @@ The QC Voltage are negotiated with Data+ and Data- wires over standard USB Conne
 Different Voltage Can be achieved by selecting different voltage configurations of D+ and D-.
 The Table below can be used for that purpose.
 ![QC Table](https://user-images.githubusercontent.com/74979748/201460979-635a45f4-8513-4e2a-bf72-a8c297db8638.png)
+
+
+The wiring Schematic is as follows:
+
+![QC Schematic](https://user-images.githubusercontent.com/74979748/201461057-299589d1-7b60-437c-9b28-a15e340a6238.png)
