@@ -15,3 +15,8 @@ DIP-8 IC Holder.
 LM-7805/7803 Linear Regulator.
 104 Ceramic Capacitor
 15v 10uF Electrolytic Capacitor.
+
+The QC Voltage are negotiated with Data+ and Data- wires over standard USB Connection.
+Different Voltage Can be achieved by selecting different voltage configurations of D+ and D-.
+The Table below can be used for that purpose.
+![QC Table](https://user-images.githubusercontent.com/74979748/201460979-635a45f4-8513-4e2a-bf72-a8c297db8638.png)
