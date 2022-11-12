@@ -1,6 +1,19 @@
 # ATTINY-QC2.0-TRIGGER-WITH-PCB
 This Arduino code uses ATTINY-85 to negotiate QC2.0 voltage (5V,9V,12V) with compatible QC Charger/PowerBank.
 
+Possible Applications
+Driving 12V LED Stripes
+Powering RF transmitters/receivers for longer range
+Driving 12V Relays, Motors etc
+Get any voltage between 1.25 to 10 volts using a LM317 or LM2596
+9V IR remote drive
+Robotic Car Power
+Laptop Charging with 20V
+Any system up to 18 Watts like WiFI, LTE, S2E devices for IoT application
+Backup power for remote systems
+Most LCD, LED Monitors, Printers, Scanners
+Low Power portable PC
+
 Components Required are:
 
 ATTINY-85.
