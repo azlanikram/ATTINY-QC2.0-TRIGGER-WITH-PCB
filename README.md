@@ -43,4 +43,23 @@ ATTINY can be programmed with Arduino IDE by following this wiring diagram.
 
 ![ATTINY85-Programming](https://user-images.githubusercontent.com/74979748/201461312-1432fb15-edef-4c28-8319-39aae036062d.png)
 
-for further guidance follow the following tutorial: https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829
+For further guidance follow the following tutorial: https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829
+
+PCB design is shown below:
+
+![ATTINY-85 PCB 2D](https://user-images.githubusercontent.com/74979748/201461479-f970f262-62e2-4269-bc55-c66433978e6f.png)
+
+
+![ATTINY-85 PCB 3D](https://user-images.githubusercontent.com/74979748/201461485-6a316e55-dc61-4e1b-b4c3-cf745424c1da.png)
+
+Real PCB is made using one layer (using etching technique) with second layer with standard 26AWG wires and AMS1117 3.3V instead of LM-7803.
+
+![IMG-20221112-WA0008](https://user-images.githubusercontent.com/74979748/201461582-c45fb978-707c-46f8-a3a8-f8e3694bd08e.jpg)
+
+
+![IMG-20221112-WA0010](https://user-images.githubusercontent.com/74979748/201461587-94925fb3-17be-437c-8072-60d141bc8bf2.jpg)
+
+
+![IMG-20221112-WA0009](https://user-images.githubusercontent.com/74979748/201461589-e239f4b5-0731-4d2a-a2e1-028f2932e94c.jpg)
+
+![IMG-20221112-WA0011](https://user-images.githubusercontent.com/74979748/201461591-f2df72b5-d10b-4011-9d6a-c96dc08b7d68.jpg)
