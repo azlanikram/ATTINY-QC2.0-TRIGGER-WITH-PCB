@@ -38,3 +38,9 @@ The Table below can be used for that purpose.
 The wiring Schematic is as follows:
 
 ![QC Schematic](https://user-images.githubusercontent.com/74979748/201461057-299589d1-7b60-437c-9b28-a15e340a6238.png)
+
+ATTINY can be programmed with Arduino IDE by following this wiring diagram.
+
+![ATTINY85-Programming](https://user-images.githubusercontent.com/74979748/201461312-1432fb15-edef-4c28-8319-39aae036062d.png)
+
+for further guidance follow the following tutorial: https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829
