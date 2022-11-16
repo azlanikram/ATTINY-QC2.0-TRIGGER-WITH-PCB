@@ -1,6 +1,6 @@
 # ATTINY-QC2.0-TRIGGER-WITH-PCB
 This Arduino code uses ATTINY-85 to negotiate QC2.0 voltage (5V,9V,12V) with compatible QC Charger/PowerBank.
-This project is inspired by the following. If you like me work please give them a thumbs up too.
+This project is inspired by the following. If you like my work please give them a thumbs up too.
 
 https://www.youtube.com/watch?v=dw3MehLAyWU&t=563s&ab_channel=AndreasSpiess
 
