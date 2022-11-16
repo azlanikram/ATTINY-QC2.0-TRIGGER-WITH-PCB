@@ -34,6 +34,8 @@ LM-7805/7803 Linear Regulator.
 104 Ceramic Capacitor
 15v 10uF Electrolytic Capacitor.
 
+# QC Voltage Negotiation
+
 The QC Voltage are negotiated with Data+ and Data- wires over standard USB Connection.
 Different Voltage Can be achieved by selecting different voltage configurations of D+ and D-.
 The Table below can be used for that purpose.
