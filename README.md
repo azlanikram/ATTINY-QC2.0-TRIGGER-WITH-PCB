@@ -5,7 +5,7 @@ This project is inspired by the following. If you like me work please give them 
 https://www.youtube.com/watch?v=dw3MehLAyWU&t=563s&ab_channel=AndreasSpiess
 
 
-#Possible Applications:
+# Possible Applications:
 
 Driving 12V LED Stripes
 Powering RF transmitters/receivers for longer range
@@ -19,7 +19,7 @@ Backup power for remote systems
 Most LCD, LED Monitors, Printers, Scanners
 Low Power portable PC
 
-#Components Required are:
+# Components Required are:
 
 ATTINY-85.
 2x10k 1/4W resistors.
